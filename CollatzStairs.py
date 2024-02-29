@@ -1,7 +1,7 @@
 ##########################################################################
-#  (c) Copyright of Dr. Ali Ebnenasir 
+#  (c) Copyright 2024 - Ali Ebnenasir 
 # 
-#  Protected by GNU GPL v3.0
+#  Protected by GNU GPL v3.0  https://www.gnu.org/licenses/gpl-3.0.en.html 
 # 
 # This program is an implementation of the algorithm in 
 # for the generation of Collatz numbers in a specific stair j, for j >0.  
