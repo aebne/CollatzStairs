@@ -122,10 +122,10 @@ def  recursiveFor(n: int, l: int, origN:int, j: int, qj: int, Y_k: int):
             mlist.pop()
 
 
-k = int(input("Enter the value of k: "))
+k = int(input("Enter the value of k, which determines the root of a subtree: "))
 print("k is:", k)
 
-j = int(input("Enter the value of the j-th stair: "))
+j = int(input("Enter the value of the j-th stair in the tree rooted at Y_k/3: "))
 print("j is:", j)
 
 #for i in range(2,j+1)[::-1]: print(i)
