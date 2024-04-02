@@ -1,5 +1,5 @@
 ##########################################################################
-#  (c) Copyright 2024 - Ali Ebnenasir 
+#  (c) Copyright 2024 - 
 # 
 #  Protected by GNU GPL v3.0  https://www.gnu.org/licenses/gpl-3.0.en.html 
 # 
